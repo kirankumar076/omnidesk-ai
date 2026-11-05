@@ -1,0 +1,18 @@
+OMNIDESK RETURNS, REFUNDS & WARRANTY SLA POLICY (2026 EDITION)
+
+1. GENERAL RETURN WINDOW & ELIGIBILITY
+Customers may request a return and refund within 30 calendar days from the confirmed delivery date. To qualify for a full refund, items must be unused, in their original packaging, with all serial number stickers and security seals intact.
+Exceptions (Final Sale Items): Digital software licenses, gift cards, opened in-ear headphones (for hygiene reasons), and clearance items marked "Final Sale" are strictly non-refundable unless they arrive dead-on-arrival (DOA).
+
+2. DAMAGED, DEFECTIVE, OR WRONG ITEMS RECEIVED
+If a customer receives a physically damaged item, a factory-defective electronic device, or the wrong product SKU, they must report the issue within 7 calendar days of delivery and upload clear photo evidence of the damage and the shipping box label.
+For verified damaged or defective items, OmniDesk provides a free reverse-pickup courier service and issues a 100% refund (including original shipping charges) or an immediate replacement unit at zero cost to the customer.
+
+3. RESTOCKING FEES FOR CHANGE-OF-MIND RETURNS
+If a customer returns a non-defective item simply because they changed their mind or ordered the wrong size/color:
+- If the box is unopened (factory sealed): 100% refund of the item price, minus a Rs. 99 reverse-shipping pickup fee.
+- If the box has been opened: A 15% restocking and inspection fee is deducted from the refund amount, plus the Rs. 99 reverse-shipping pickup fee.
+
+4. AUTOMATED AI AGENT REFUND LIMITS & HUMAN-IN-THE-LOOP (HITL) ESCALATION
+Our autonomous AI Support Agent is authorized to automatically approve and process refunds up to a maximum limit of $50 USD (or Rs. 4,000 INR) per order without human intervention, provided the order meets the 30-day window and has zero restocking disputes.
+Any refund request exceeding $50 USD (Rs. 4,000 INR), or any case where a customer disputes the 15% restocking fee, MUST be paused and routed to a Human Support Manager for manual approval before executing the payment reversal.
